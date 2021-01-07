@@ -1,9 +1,9 @@
 # energy_forecasting
 Energy forecasting notebook using ASHRAE's data base for the Great Energy Predictor III competition on Kaggle.
 
-You can find the original data on:
+You can find the original data on: https://www.kaggle.com/c/ashrae-energy-prediction/data?select=building_metadata.csv
 
-Data description on competition:
+Data description on competition: 
 
 Assessing the value of energy efficiency improvements can be challenging as there's no way to truly know how much energy a building would have used without the improvements. The best we can do is to build counterfactual models. Once a building is overhauled the new (lower) energy consumption is compared against modeled values for the original building to calculate the savings from the retrofit. More accurate models could support better market incentives and enable lower cost financing.
 
